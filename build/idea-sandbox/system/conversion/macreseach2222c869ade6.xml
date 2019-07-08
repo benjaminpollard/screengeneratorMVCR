@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/codeStyles/Project.xml" timestamp="1551347016000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/compiler.xml" timestamp="1551347015000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/gradle.xml" timestamp="1551347042000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_customview_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_loader_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_print_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/misc.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/modules.xml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/runConfigurations.xml" timestamp="1551347042000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/.idea/workspace.xml" timestamp="1551356639000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/app/app.iml" timestamp="1551347069000" />
+    <file path="/Users/benjaminpollard/Projects/Android/macreseach2222/macreseach2222.iml" timestamp="1551347069000" />
+  </project-files>
+</conversion>
+

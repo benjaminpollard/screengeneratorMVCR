@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res"><file path="/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/layout/activity_fullscreen.xml" qualifiers="" timestamp="1538722423000"><item name="activity_fullscreen" type="layout">/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/layout/activity_fullscreen.xml</item><item name="fullscreen_content_controls" type="id"/><item name="camera" type="id"/></file><file path="/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/values/attrs.xml" qualifiers="" timestamp="1538721117000"><declare-styleable name="ButtonBarContainerTheme">
+        <attr format="reference" name="metaButtonBarStyle"/>
+        <attr format="reference" name="metaButtonBarButtonStyle"/>
+    </declare-styleable></file><file path="/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/values/colors.xml" qualifiers="" timestamp="1538721117000"><color name="colorPrimary">#3F51B5</color><color name="colorPrimaryDark">#303F9F</color><color name="colorAccent">#FF4081</color><color name="black_overlay">#66000000</color></file><file path="/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/values/styles.xml" qualifiers="" timestamp="1538722619000"><style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style><style name="FullscreenTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style><style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style></file><file path="/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/values/strings.xml" qualifiers="" timestamp="1538721117000"><string name="app_name">BackCamStream</string><string name="dummy_button">Dummy Button</string><string name="dummy_content">DUMMY\nCONTENT</string></file><file path="/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/layout/activity_5.xml" qualifiers="" timestamp="1562601111000"><item name="activity_5" type="layout">/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/layout/activity_5.xml</item></file><file path="/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/layout/activity_h.xml" qualifiers="" timestamp="1562597413000"><item name="activity_h" type="layout">/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/layout/activity_h.xml</item></file><file path="/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/layout/activity_tess.xml" qualifiers="" timestamp="1562602139000"><item name="activity_tess" type="layout">/Users/benjaminpollard/Projects/Android/BackCamStream/app/src/main/res/layout/activity_tess.xml</item></file></source></dataSet><mergedItems/></merger>

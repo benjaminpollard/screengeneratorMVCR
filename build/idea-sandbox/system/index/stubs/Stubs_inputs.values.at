@@ -1,0 +1,26 @@
+RIBUTES_CHANGEDJACCESSIBLE_INVALIDATE_CHILDRENHACCESSIBLE_NAME_PROPERTY"accessibleParentNaccessibleNameP&ACCESSIBLE_TABLE_COLUMN_HEADER_CHANGED> ACCESSIBLE_TABLE_SUMMARY_CHANGED6ACCESSIBLE_STATE_PROPERTY&ACCESSIBLE_CARET_PROPERTY,+ACCESSIBLE_TABLE_COLUMN_DESCRIPTION_CHANGED@%ACCESSIBLE_ACTIVE_DESCENDANT_PROPERTY2ACCESSIBLE_ACTION_PROPERTYBACCESSIBLE_TEXT_PROPERTYF ACCESSIBLE_VISIBLE_DATA_PROPERTY.relationSetVnativeAXResourceX ACCESSIBLE_TABLE_CAPTION_CHANGED4öå 	V	getAccessibleActionDescriptiongetStartIndex1getAccessibleActionObject#AccessibleHyperlinkgetAccessibleActionCountgetAccessibleActionAnchor*getEndIndex6isValiddoAccessibleActionTAccessibleAction\jn78[AccessibleHyperlink¤ß 	TAccessibleText\jqÌk[AccessibleHypertextXintþÿÿÿAccessibleHyperlinkWgetLinkCountgetLinkgetLinkIndexVgetLinkCountgetLinkgetLinkIndexÆÙ 	Xintboolean
+Accessiblevoidüÿÿÿ ',WisAccessibleChildSelectedaddAccessibleSelectiongetAccessibleSelectiongetAccessibleSelectionCountclearAccessibleSelection'removeAccessibleSelection selectAllAccessibleSelection,VisAccessibleChildSelectedaddAccessibleSelectiongetAccessibleSelectiongetAccessibleSelectionCountclearAccessibleSelection'removeAccessibleSelection selectAllAccessibleSelection,\×^Ð^[AccessibleSelection¤ë 	XObjectintWgetAccessibleKeyBindinggetAccessibleKeyBindingCountVgetAccessibleKeyBindinggetAccessibleKeyBindingCount\‡
+”[AccessibleKeyBinding„Ú 	\/ô H[AccessibleStreamableZ
+DataFlavorXInputStreamDataFlavor[]WgetMimeTypes	getStreamVgetMimeTypes	getStreamÀì 	U	relationsZStringþÿÿÿ3:AccessibleRelationüÿÿÿ"V
+remove"toArrayAcontains3clear)addget:size.addAllAccessibleRelationSetþÿÿÿtoStringF\·[+[AccessibleRelationSetÒï 	TAccessibleText\1¹-Ÿ[AccessibleEditableTextZStringýÿÿÿ8AttributeSetLXStringvoidøÿÿÿ(18CLW	paste1deletecut(getTextRangeinsertTextAtIndex
+selectTextCreplaceText8setTextContentssetAttributesLV	paste1deletecut(getTextRangeinsertTextAtIndex
+selectTextCreplaceText8setTextContentssetAttributesLÎÕ 	\Fø9ô[AccessibleExtendedTextXString
+intþÿÿÿAccessibleTextSequenceýÿÿÿ%	Rectangle.WgetTextSequenceAtgetTextSequenceAftergetTextRange
+getTextBounds.LINEgetTextSequenceBefore%ATTRIBUTE_RUNVgetTextBounds.getTextSequenceAftergetTextRange
+getTextSequenceAtgetTextSequenceBefore%ULINEATTRIBUTE_RUNgÔ 	UendIndex
+startIndextext
+ZStringVAccessibleTextSequence\„'ûü[AccessibleTextSequenceÁÛ 	TAccessibleTable\˜ßç[AccessibleExtendedTableXintýÿÿÿWgetAccessibleColumngetAccessibleRowgetAccessibleIndexVgetAccessibleColumngetAccessibleRowgetAccessibleIndextæ 	S
+DeprecatedVgetContentsAccessibleResourceBundleTListResourceBundle\¢2ž[AccessibleResourceBundleôí 	\æÛˆy[AccessibleTableModelChangeXintøÿÿÿ
+ W
+getLastRowDELETE
+getTypegetFirstRowgetFirstColumngetLastColumn UPDATEINSERTVgetTypegetFirstRowgetFirstColumngetLastColumn 
+getLastRowUUPDATEDELETE
+INSERTçâ 	TAccessibleComponent\(z–[AccessibleExtendedComponentXStringþÿÿÿAccessibleKeyBindingWgetToolTipTextgetTitledBorderTextgetAccessibleKeyBindingVgetToolTipTextgetTitledBorderTextgetAccessibleKeyBinding}Ý 	UendIndex
+startIndex
+attributes
+ZAttributeSetVAccessibleAttributeSequence\b—O[AccessibleAttributeSequenceðâ
+\bò©)[vvvðâ
+\bò©)[vvvÁã
+\éà›n[vvvViewÂã
+\KäI¥[vvvControllerÃã
+\Â‰1[vvvRepositories

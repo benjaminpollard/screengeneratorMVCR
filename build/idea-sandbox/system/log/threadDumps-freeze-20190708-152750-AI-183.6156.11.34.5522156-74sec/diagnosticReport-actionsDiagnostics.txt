@@ -1,0 +1,5 @@
+Actions:
+Action when freeze detected: ui.newscreen.NewScreenAction (NewScreenAction)
+Action duration when freeze detected: 43784ms
+Action when freeze ended: ui.newscreen.NewScreenAction (NewScreenAction)
+Action duration when freeze ended: 76645ms

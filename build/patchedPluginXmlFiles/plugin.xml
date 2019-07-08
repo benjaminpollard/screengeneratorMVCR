@@ -1,0 +1,26 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <id>screengenerator.screengeneratorMVCR</id>
+  <name>Screen Generator MVCR</name>
+  <vendor email="benjaminpollard1990@gmail.com" url="https://github.com/benjaminpollard">Ben</vendor>
+  <description>
+   Auto Gen class in a pattern set up by pref
+    </description>
+  <depends>com.intellij.modules.lang</depends>
+  <depends>org.jetbrains.kotlin</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <defaultProjectTypeProvider type="Android"/>
+    <projectConfigurable instance="ui.settings.SettingsViewImpl"/>
+    <projectService serviceInterface="data.ScreenGeneratorComponent" serviceImplementation="data.ScreenGeneratorComponent"/>
+  </extensions>
+  <actions>
+    <group id="ScreenGenerator.FileMenu" text="Screen" description="Screen Generator Plugin">
+      <add-to-group group-id="NewGroup" anchor="last"/>
+      <separator/>
+      <action id="NewScreenAction" class="ui.newscreen.NewScreenAction" text="Screen" description="Screen Generator Plugin"/>
+    </group>
+  </actions>
+</idea-plugin>
