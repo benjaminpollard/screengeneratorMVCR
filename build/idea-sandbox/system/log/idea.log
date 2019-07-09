@@ -5029,3 +5029,249 @@ java.io.FileNotFoundException: https://developer.android.com/studio/releases/ass
 2019-07-08 17:29:20,705 [ thread 18]   INFO - icReportIdePerformanceListener - Freeze report saved: /Users/benjaminpollard/Projects/Android/screengeneratorMVCR/build/idea-sandbox/system/log/threadDumps-freeze-20190708-172904-AI-183.6156.11.34.5522156-16sec/diagnosticReport-memoryUseDiagnostics.txt 
 2019-07-08 17:29:20,707 [ thread 18]   INFO - icReportIdePerformanceListener - Freeze report saved: /Users/benjaminpollard/Projects/Android/screengeneratorMVCR/build/idea-sandbox/system/log/threadDumps-freeze-20190708-172904-AI-183.6156.11.34.5522156-16sec/diagnosticReport-actionsDiagnostics.txt 
 2019-07-08 17:30:46,725 [ thread 17]   WARN - dea.sdk.SystemInfoStatsMonitor - CpuInfoFlags.fromExitCode(): unknown flag values '0x80' 
+2019-07-09 10:52:25,838 [ain Thread]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-07-09 10:52:25,868 [.0_131-b11]   INFO -        #com.intellij.idea.Main - IDE: Android Studio (build #AI-183.6156.11.34.5522156, 01 May 2019 21:25) 
+2019-07-09 10:52:25,869 [.0_131-b11]   INFO -        #com.intellij.idea.Main - OS: Mac OS X (10.14.4, x86_64) 
+2019-07-09 10:52:25,869 [.0_131-b11]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_131-b11 (Oracle Corporation) 
+2019-07-09 10:52:25,869 [.0_131-b11]   INFO -        #com.intellij.idea.Main - JVM: 25.131-b11 (Java HotSpot(TM) 64-Bit Server VM) 
+2019-07-09 10:52:25,870 [.0_131-b11]   INFO -        #com.intellij.idea.Main - JVM Args: -Dapple.awt.fileDialogForDirectories=true -Dapple.laf.useScreenMenuBar=true -Didea.classpath.index.enabled=false -Didea.config.path=/Users/benjaminpollard/Projects/Android/screengeneratorMVCR/build/idea-sandbox/config -Didea.is.internal=true -Didea.platform.prefix=AndroidStudio -Didea.plugins.path=/Users/benjaminpollard/Projects/Android/screengeneratorMVCR/build/idea-sandbox/plugins -Didea.required.plugins.id=screengenerator.screengeneratorMVCR -Didea.smooth.progress=false -Didea.system.path=/Users/benjaminpollard/Projects/Android/screengeneratorMVCR/build/idea-sandbox/system -Xms256m -Xmx512m -Dfile.encoding=UTF-8 -Duser.country=GB -Duser.language=en -Duser.variant -ea 
+2019-07-09 10:52:25,870 [.0_131-b11]   INFO -        #com.intellij.idea.Main - ext: /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/ext: [sunec.jar, nashorn.jar, cldrdata.jar, jfxrt.jar, dnsns.jar, localedata.jar, sunjce_provider.jar, meta-index, sunpkcs11.jar, jaccess.jar, zipfs.jar] 
+2019-07-09 10:52:25,870 [.0_131-b11]   INFO -        #com.intellij.idea.Main - ext: /System/Library/Java/Extensions: [MRJToolkit.jar] 
+2019-07-09 10:52:25,870 [.0_131-b11]   INFO -        #com.intellij.idea.Main - charsets: JNU=UTF-8 file=UTF-8 
+2019-07-09 10:52:25,891 [.0_131-b11]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 20 ms 
+2019-07-09 10:52:25,920 [.0_131-b11]   INFO -        #com.intellij.idea.Main - initializing environment 
+2019-07-09 10:52:25,922 [d thread 1]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/bash -l -i -c '/Applications/Android Studio.app/Contents/bin/printenv.py' '/private/var/folders/hs/g5hj4t_s4rs9j7nfvjmxp3880000gp/T/intellij-shell-env.tmp' 
+2019-07-09 10:52:26,033 [d thread 1]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (16 vars) 
+2019-07-09 10:52:26,117 [.0_131-b11]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-07-09 10:52:26,131 [.0_131-b11]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 2.0 (JRE-managed HiDPI) 
+2019-07-09 10:52:27,401 [entQueue-0]   INFO - .intellij.idea.IdeaApplication - CPU cores: 8; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@458debd9[Running, parallelism = 7, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@7a18ea27 
+2019-07-09 10:52:28,090 [entQueue-0]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2019-07-09 10:52:28,361 [entQueue-0]   INFO - llij.ide.plugins.PluginManager - 40 plugins initialized in 610 ms 
+2019-07-09 10:52:28,361 [entQueue-0]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android APK Support (1.0), Android Games (1.0), Android NDK Support (1.0), Android Support (10.3.4.1), App Links Assistant (0.1), CVS Integration (11), Copyright (8.1), Coverage (183.6156.11.34.5522156), EditorConfig (183.6156.11.34.5522156), Firebase App Indexing (0.1), Firebase Services (0.1), Firebase Testing (1.0), Git Integration (8.1), GitHub (183.6156.11.34.5522156), Google Cloud Tools Core (0.2.8), Google Cloud Tools For Android Studio (0.2.8), Google Developers Samples (0.3.1), Google Login (1.0), Google Services (0.1), Gradle (183.6156.11.34.5522156), Groovy (9.0), I18n for Java (183.6156.11.34.5522156), IDEA CORE (183.6156.11.34.5522156), IntelliJ Configuration Script (183.6156.11.34.5522156), IntelliLang (8.0), JUnit (1.0), Java Bytecode Decompiler (183.6156.11.34.5522156), Java Stream Debugger (183.6156.11.34.5522156), Kotlin (1.3.31-release-Studio3.4-1), Mercurial Integration (10.0), Properties Support (183.6156.11.34.5522156), Settings Repository (183.6156.11.34.5522156), Smali Support (1.0), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), Test Recorder (1.0), TestNG-J (8.0), YAML (183.6156.11.34.5522156) 
+2019-07-09 10:52:28,361 [entQueue-0]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Screen Generator MVCR (1.1-SNAPSHOT) 
+2019-07-09 10:52:29,179 [entQueue-0]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2019-07-09 10:52:29,179 [entQueue-0]   INFO - pi.util.registry.RegistryState -   java.completion.argument.hints.internal = false 
+2019-07-09 10:52:29,193 [entQueue-0]   INFO - pi.util.registry.RegistryState - Experimental features enabled for user: inline.browse.button 
+2019-07-09 10:52:29,219 [entQueue-0]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=435; buffer=10; max=435 
+2019-07-09 10:52:29,276 [entQueue-0]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /Applications/Android Studio.app/Contents/bin/fsnotifier 
+2019-07-09 10:52:29,286 [entQueue-0]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-07-09 10:52:30,316 [oader Pool]   INFO - j.ide.ui.OptionsTopHitProvider - 140 ms spent to cache options in application 
+2019-07-09 10:52:30,317 [oader Pool]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 140 ms 
+2019-07-09 10:52:30,391 [.0_131-b11]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-07-09 10:52:30,399 [d thread 1]   INFO - tellij.ide.SystemHealthMonitor - issue detected: outdated.jre.version.message2 
+2019-07-09 10:52:30,408 [d thread 3]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63344 
+2019-07-09 10:52:30,497 [.0_131-b11]   INFO - m.intellij.ui.mac.touchbar.NST - touchbar-server isn't running, skip nst loading 
+2019-07-09 10:52:30,504 [.0_131-b11]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2019-07-09 10:52:30,656 [.0_131-b11]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:96, number of extensions:43 
+2019-07-09 10:52:30,667 [.0_131-b11]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:11 
+2019-07-09 10:52:30,706 [.0_131-b11]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:29, number of extensions:50 
+2019-07-09 10:52:30,707 [.0_131-b11]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2019-07-09 10:52:31,237 [.0_131-b11]   INFO - ellij.project.impl.ProjectImpl - 19 project components initialized in 256 ms 
+2019-07-09 10:52:31,794 [.0_131-b11]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-07-09 10:52:31,871 [cture Pool]   INFO - pl$FileIndexDataInitialization - Initialization done:1203 
+2019-07-09 10:52:31,943 [cture Pool]   INFO - exImpl$StubIndexInitialization - Initialization done:71 
+2019-07-09 10:52:33,661 [.0_131-b11]   INFO - plication.impl.ApplicationImpl - 85 application components initialized in 5914ms 
+2019-07-09 10:52:33,720 [.0_131-b11]   INFO - .intellij.idea.IdeaApplication - App initialization took 8641 ms 
+2019-07-09 10:52:33,721 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.kotlin loaded 1200 classes 
+2019-07-09 10:52:33,721 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.android loaded 725 classes 
+2019-07-09 10:52:33,721 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.intellij.groovy loaded 382 classes 
+2019-07-09 10:52:33,721 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - CVS loaded 62 classes 
+2019-07-09 10:52:33,721 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 52 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.intellij.properties loaded 39 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 37 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 36 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 35 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.gradle loaded 29 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 27 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 26 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 26 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - JUnit loaded 16 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 14 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - TestNG-J loaded 12 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.gct.core loaded 9 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.android.tools.ndk loaded 9 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.java.decompiler loaded 7 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.gct loaded 7 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.android.tools.idea.smali loaded 5 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 5 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.intellij.java-i18n loaded 4 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 3 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 3 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.gct.login loaded 2 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - Coverage loaded 2 classes 
+2019-07-09 10:52:33,722 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.gct.test.recorder loaded 1 classes 
+2019-07-09 10:52:33,723 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.services.firebase loaded 1 classes 
+2019-07-09 10:52:34,039 [.0_131-b11]   WARN - j.ui.mac.MacMainFrameDecorator - no url bundle present. 
+To use platform protocol handler to open external links specify required protocols in the mac app layout section of the build file
+Example: args.urlSchemes = ["your-protocol"] will handle following links: your-protocol://open?file=file&line=line 
+2019-07-09 10:52:34,301 [oader Pool]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 3982 ms 
+2019-07-09 10:52:34,580 [oader Pool]   INFO - dk.ClangTidyInspectionProvider - The clang-tidy inspection is disabled. 
+2019-07-09 10:52:35,309 [d thread 5]   INFO - CompilerWorkspaceConfiguration - Available processors: 8 
+2019-07-09 10:52:35,899 [d thread 5]   INFO - ellij.project.impl.ProjectImpl - 159 project components initialized in 1462 ms 
+2019-07-09 10:52:36,115 [d thread 5]   INFO - le.impl.ModuleManagerComponent - 2 module(s) loaded in 212 ms 
+2019-07-09 10:52:36,520 [d thread 3]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2019-07-09 10:52:36,589 [oader Pool]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 2286 ms 
+2019-07-09 10:52:36,690 [.0_131-b11]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2019-07-09 10:52:37,149 [oader Pool]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 559 ms 
+2019-07-09 10:52:37,158 [oader Pool]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 8 ms 
+2019-07-09 10:52:37,575 [.0_131-b11]   INFO - idea.project.IndexingSuspender - Subscribing project 'Project '/Users/benjaminpollard/Projects/Android/BackCamStream' BackCamStream' to indexing suspender events (com.android.tools.idea.project.IndexingSuspender@3d875bc7) 
+2019-07-09 10:52:37,710 [d thread 5]   INFO - ntellij.internal.IconsLoadTime - IMG load time: ide_startup=49.08ms, average=1.23ms, median=2.01ms; number of icons: 40 
+2019-07-09 10:52:37,710 [d thread 5]   INFO - ntellij.internal.IconsLoadTime - SVG load time: ide_startup=361.92ms, average=6.96ms, median=4.00ms; number of icons: 52 
+2019-07-09 10:52:37,802 [d thread 4]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@96107d5 
+2019-07-09 10:52:37,865 [d thread 4]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 59ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-07-09 10:52:38,224 [d thread 5]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 483 millis 
+2019-07-09 10:52:38,309 [d thread 5]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 583ms under project opening modal progress 
+2019-07-09 10:52:39,570 [d thread 5]   INFO - tartup.impl.StartupManagerImpl - CreateKotlinSdkActivity run in 1211ms under project opening modal progress 
+2019-07-09 10:52:41,141 [d thread 4]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 3275ms; general responsiveness: 1/3 sluggish; EDT responsiveness: 0/3 sluggish, 1/3 very slow 
+2019-07-09 10:52:41,212 [d thread 4]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: initial refresh 
+2019-07-09 10:52:41,253 [d thread 4]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.jetbrains.cidr.lang.symbols.symtable.OCSymbolTablesBuildingActivity$2@273c099 
+2019-07-09 10:52:41,299 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 43 ms 
+2019-07-09 10:52:41,319 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Building symbols in FAST mode, 0 source files from total 0 project files 
+2019-07-09 10:52:41,698 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 398 ms 
+2019-07-09 10:52:41,709 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Loading Header Maps finished in 6 ms 
+2019-07-09 10:52:41,752 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Loading Module Maps finished in 42 ms 
+2019-07-09 10:52:41,761 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Saving Module Maps finished in 5 ms 
+2019-07-09 10:52:41,761 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Loaded 0 tables for 0 files (0 project files) 
+2019-07-09 10:52:41,766 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 source files 
+2019-07-09 10:52:41,784 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 unused headers 
+2019-07-09 10:52:41,785 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 20 ms 
+2019-07-09 10:52:41,808 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Saving modified symbols for 0 files (0 tables of total 0) 
+2019-07-09 10:52:41,811 [d thread 4]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 3 ms 
+2019-07-09 10:52:41,879 [.0_131-b11]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2019-07-09 10:52:41,887 [.0_131-b11]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/benjaminpollard/Projects/Android/BackCamStream' BackCamStream 
+2019-07-09 10:52:42,053 [.0_131-b11]   INFO - j.ide.ui.OptionsTopHitProvider - 153 ms spent to cache options in project 
+2019-07-09 10:52:42,054 [.0_131-b11]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2019-07-09 10:52:42,055 [.0_131-b11]   INFO - tartup.impl.StartupManagerImpl - Activity run in 154ms on UI thread 
+2019-07-09 10:52:42,065 [.0_131-b11]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2019-07-09 10:52:42,359 [.0_131-b11]   INFO - tartup.impl.StartupManagerImpl - GradleJvmStartupActivity run in 230ms on UI thread 
+2019-07-09 10:52:42,379 [.0_131-b11]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender activation event: SYNC_TASK_CREATED 
+2019-07-09 10:52:42,992 [.0_131-b11]   INFO - j.ide.ui.OptionsTopHitProvider - 502 ms spent on EDT to cache options in project 
+2019-07-09 10:52:43,024 [.0_131-b11]   INFO - e.project.sync.GradleSyncState - Started sync with Gradle for project 'BackCamStream'. 
+2019-07-09 10:52:43,064 [.0_131-b11]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender activation event: SYNC_STARTED 
+2019-07-09 10:52:43,065 [.0_131-b11]   INFO - a.gradle.util.BatchUpdatesUtil - Starting batch update for project: Project '/Users/benjaminpollard/Projects/Android/BackCamStream' BackCamStream 
+2019-07-09 10:52:43,160 [.0_131-b11]   INFO - e.project.sync.GradleSyncState - Started setup of project 'BackCamStream'. 
+2019-07-09 10:52:43,160 [.0_131-b11]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender activation event: SETUP_STARTED 
+2019-07-09 10:52:43,284 [d thread 2]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$PruneTask@195e0138 
+2019-07-09 10:52:43,398 [d thread 8]   WARN - WhatsNewAssistantBundleCreator - https://developer.android.com/studio/releases/assistant/3.4.1.xml 
+java.io.FileNotFoundException: https://developer.android.com/studio/releases/assistant/3.4.1.xml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1872)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewAssistantBundleCreator.downloadConfig(WhatsNewAssistantBundleCreator.java:221)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewAssistantBundleCreator.updateConfig(WhatsNewAssistantBundleCreator.java:209)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewAssistantBundleCreator.isNewConfigVersion(WhatsNewAssistantBundleCreator.java:133)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewAssistantCheckVersionTask.run(WhatsNewAssistantCheckVersionTask.kt:34)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:727)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:164)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:582)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:532)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:87)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:151)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:403)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2019-07-09 10:52:44,088 [d thread 5]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 4467ms under project opening modal progress 
+2019-07-09 10:52:44,093 [d thread 5]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 6438ms; general responsiveness: 1/6 sluggish; EDT responsiveness: 2/6 sluggish, 2/6 very slow 
+2019-07-09 10:52:45,309 [.0_131-b11]   INFO - j.ide.ui.OptionsTopHitProvider - 142 ms spent on EDT to cache options in application 
+2019-07-09 10:52:45,493 [.0_131-b11]   INFO - tartup.impl.StartupManagerImpl - /Users/benjaminpollard/Projects/Android/BackCamStream/.idea case-sensitivity: expected=false actual=false 
+2019-07-09 10:52:45,507 [d thread 6]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2019-07-09 10:52:45,761 [.0_131-b11]   INFO - ntellij.internal.IconsLoadTime - SVG load time: total=588.89ms, average=5.89ms, median=8.44ms; number of icons: 100 
+2019-07-09 10:52:46,039 [.0_131-b11]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 11682 ms 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.android loaded 2328 classes 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.kotlin loaded 1881 classes 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.intellij.groovy loaded 711 classes 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.gradle loaded 149 classes 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.debugger.streams loaded 129 classes 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 128 classes 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 98 classes 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 87 classes 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - CVS loaded 79 classes 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 68 classes 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 66 classes 
+2019-07-09 10:52:46,040 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.intellij.properties loaded 63 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.android.tools.ndk loaded 56 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 55 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.android.tools.apk loaded 47 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.gct.core loaded 43 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 37 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - Coverage loaded 36 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 31 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - JUnit loaded 29 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 28 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - TestNG-J loaded 25 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.gct.login loaded 20 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.gct loaded 18 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 17 classes 
+2019-07-09 10:52:46,041 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 8 classes 
+2019-07-09 10:52:46,042 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.java.decompiler loaded 7 classes 
+2019-07-09 10:52:46,042 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.intellij.java-i18n loaded 7 classes 
+2019-07-09 10:52:46,042 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.android.tools.idea.smali loaded 5 classes 
+2019-07-09 10:52:46,042 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.gct.testing loaded 4 classes 
+2019-07-09 10:52:46,042 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.urlassistant loaded 3 classes 
+2019-07-09 10:52:46,042 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.services.firebase loaded 2 classes 
+2019-07-09 10:52:46,042 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.cluestick.studioclient loaded 2 classes 
+2019-07-09 10:52:46,042 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.services loaded 1 classes 
+2019-07-09 10:52:46,042 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.appindexing loaded 1 classes 
+2019-07-09 10:52:46,042 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - screengenerator.screengeneratorMVCR loaded 1 classes 
+2019-07-09 10:52:46,042 [.0_131-b11]   INFO - llij.ide.plugins.PluginManager - com.google.gct.test.recorder loaded 1 classes 
+2019-07-09 10:52:46,746 [d thread 7]   INFO - etup.post.PluginVersionUpgrade - Gradle model version: 3.1.2, recommended version for IDE: 3.4.1 
+2019-07-09 10:52:47,367 [d thread 7]   INFO - e.project.sync.GradleSyncState - Gradle sync finished in 4 s 342 ms (from cached state) 
+2019-07-09 10:52:47,426 [.0_131-b11]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender deactivation event: SYNC_FINISHED 
+2019-07-09 10:52:47,426 [.0_131-b11]   INFO - a.gradle.util.BatchUpdatesUtil - Finishing batch update for project: Project '/Users/benjaminpollard/Projects/Android/BackCamStream' BackCamStream 
+2019-07-09 10:52:47,537 [cessToken]]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$3@57ffcdb1 
+2019-07-09 10:52:47,563 [ thread 13]   INFO - roid.tools.ndk.GradleWorkspace - Updating model took 0.008s 
+2019-07-09 10:52:47,585 [.0_131-b11]   INFO - idea.project.IndexingSuspender - Consuming IndexingSuspender deactivation event: BUILD_FINISHED 
+2019-07-09 10:52:47,585 [.0_131-b11]   INFO - idea.project.IndexingSuspender - IndexingSuspender deactivation event received and ignored: BUILD_FINISHED 
+2019-07-09 10:52:47,627 [d thread 2]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$ManageLruProjectFilesTask@e62969c 
+2019-07-09 10:52:47,662 [d thread 2]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.AndroidProjectRootListener$2@6c2aed88 
+2019-07-09 10:52:47,679 [d thread 2]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@2cf330b2 
+2019-07-09 10:52:47,709 [d thread 2]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 6ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-07-09 10:52:47,846 [d thread 2]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 136ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-07-09 10:52:47,863 [d thread 2]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.jetbrains.cidr.lang.symbols.symtable.OCSymbolTablesBuildingActivity$2@49e2ce58 
+2019-07-09 10:52:47,946 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 82 ms 
+2019-07-09 10:52:47,947 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Building symbols in FAST mode, 0 source files from total 0 project files 
+2019-07-09 10:52:47,949 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 3 ms 
+2019-07-09 10:52:47,950 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Loading Header Maps finished in 1 ms 
+2019-07-09 10:52:47,951 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Loading Module Maps finished in 1 ms 
+2019-07-09 10:52:47,952 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Saving Module Maps finished in 1 ms 
+2019-07-09 10:52:47,952 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Loaded 0 tables for 0 files (0 project files) 
+2019-07-09 10:52:47,952 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 source files 
+2019-07-09 10:52:47,959 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 unused headers 
+2019-07-09 10:52:47,961 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 8 ms 
+2019-07-09 10:52:47,964 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Saving modified symbols for 0 files (0 tables of total 0) 
+2019-07-09 10:52:47,965 [d thread 2]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 1 ms 
+2019-07-09 10:52:48,056 [.0_131-b11]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2019-07-09 10:52:48,057 [.0_131-b11]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/benjaminpollard/Projects/Android/BackCamStream' BackCamStream 
+2019-07-09 10:52:48,129 [d thread 1]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRegistry$PopulateCachesTask@6e78a35f 
+2019-07-09 10:52:48,444 [.0_131-b11]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2019-07-09 10:52:48,445 [.0_131-b11]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/benjaminpollard/Projects/Android/BackCamStream' BackCamStream 
+2019-07-09 10:52:56,131 [.0_131-b11]   INFO - rd.FirstRunWizardFrameProvider - Overriding welcome frame to be resizable 
+2019-07-09 10:52:58,743 [.0_131-b11]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-07-09 10:52:58,744 [.0_131-b11]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-07-09 10:52:58,744 [.0_131-b11]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-07-09 10:52:58,790 [.0_131-b11]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-07-09 10:52:58,792 [.0_131-b11]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-07-09 10:52:58,796 [.0_131-b11]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2019-07-09 10:52:58,800 [fsnotifier]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2019-07-09 10:52:58,804 [.0_131-b11]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-07-09 10:52:58,819 [.0_131-b11]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-07-09 10:52:58,821 [.0_131-b11]   INFO - plication.impl.ApplicationImpl - Write action Statistics:
+Event number:     31
+Total time spent: 907ms
+Average duration: 29ms
+Median  duration: 6ms
+Max     duration: 263ms (it was 'write action (class com.intellij.openapi.externalSystem.service.project.manage.ProjectDataManagerImpl$3)') 
+2019-07-09 10:52:58,822 [.0_131-b11]   INFO - plication.impl.ApplicationImpl - AnAction.update() Statistics:
+Event number:     619
+Total time spent: 129ms
+Average duration: 0ms
+Median  duration: 0ms
+Max     duration: 23ms (it was 'Run action update (class com.intellij.execution.ExecutorRegistryImpl$ExecutorAction)') 
+2019-07-09 10:52:58,822 [.0_131-b11]   INFO - plication.impl.ApplicationImpl - Global instance threads created counter = 19; ProcessIOExecutorService threads: 6 
+2019-07-09 10:52:58,833 [wn tracker]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-07-09 10:52:58,833 [wn tracker]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

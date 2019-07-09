@@ -16,7 +16,7 @@ data class ScreenElement(var name: String = "",
     {
         if(fileType == FileType.JAVA)
         {
-            return template.replaceVariables(screenName, "$packageName;", androidComponent, androidComponentBaseClass) + "{}"
+            return template.replaceVariables(screenName, packageName, androidComponent, androidComponentBaseClass)
         }
         return template.replaceVariables(screenName, packageName, androidComponent, androidComponentBaseClass)
     }

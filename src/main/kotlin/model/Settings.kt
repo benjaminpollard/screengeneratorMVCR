@@ -5,7 +5,7 @@ import java.io.Serializable
 private const val DEFAULT_BASE_ACTIVITY_CLASS = "androidx.appcompat.app.AppCompatActivity"
 private const val DEFAULT_BASE_FRAGMENT_CLASS = "androidx.fragment.app.Fragment"
 private val DEFAULT_MVP_TEMPLATE = "package ${Variable.PACKAGE_NAME.value}\n\nimport ${Variable.ANDROID_COMPONENT_FULL_CLASS_NAME.value}\n\nclass ${Variable.NAME.value}${Variable.ANDROID_COMPONENT_NAME.value} : ${Variable.ANDROID_COMPONENT_CLASS_NAME.value}"
-private val JAVA_MVP_TEMPLATE = "package ${Variable.PACKAGE_NAME.value};\n\nimport ${Variable.ANDROID_COMPONENT_FULL_CLASS_NAME.value};\n\nclass ${Variable.NAME.value}${Variable.ANDROID_COMPONENT_NAME.value} extends ${Variable.ANDROID_COMPONENT_CLASS_NAME.value}{}"
+private val JAVA_MVP_TEMPLATE = "package ${Variable.PACKAGE_NAME.value};\n\nimport ${Variable.ANDROID_COMPONENT_FULL_CLASS_NAME.value};\n\nclass ${Variable.NAME.value}${Variable.ANDROID_COMPONENT_NAME.value} extends ${Variable.ANDROID_COMPONENT_CLASS_NAME.value} {}"
 
 
 private val DEFAULT_VIEW_TEMPLATE = "package ${Variable.PACKAGE_NAME.value}\n\ninterface ${Variable.NAME.value}${Variable.SCREEN_ELEMENT.value}"
